@@ -1,0 +1,38 @@
+. For (Ho fame)
+    - Ho fame?
+
+- Prendo lo smartphone
+
++ If (è scarico?)
+    + If (Ho il caricatore?)
+        - Lo metto in carica
+    
+    + Else 
+        - Uso un altro telefono
+    
+- Sblocco lo smartphone
+
++ If (non ho l'app di delivery?)
+    - Scarico l'app
+    
+- Apro l'app di delivery
+
++ If (La mia carta non è collegata?)
+    - Collego la mia carta
+
+- Consultare il listino
+
++ If (c'è la prosciutto e funghi?)
+    - Ordino la prosciutto e funghi
+
++ Else
+    - Ordino un'altra pizza
+
+- Confermo l'ordine
+
+- Apparecchio la tavola
+
+- La pizza arriva
+
++ IF (avanza?)
+    - Metto gli avanzi in frigo
